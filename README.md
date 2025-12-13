@@ -1,16 +1,32 @@
-## Hi there 👋
+## 🌸 Hey there, I’m so glad you’re here!
 
-<!--
-**inshafirdause123/inshafirdause123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub!
+I’m passionate about growing in my career, learning new technologies, and using data to make work more efficient—and a little more enjoyable.
 
-Here are some ideas to get you started:
+Here, you’ll find:
+🛠️ Projects I’m building and contributing to, mainly in SQL, Excel, and Power BI
+📚 Learnings and insights gained while working through real-world problems
+🌱 Ideas and inspiration for anyone navigating their early career in data and analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Whether you’re here to explore projects, find useful code, or see how someone is building skills step by step—you’re in the right place.
+
+Let’s connect, learn, and grow together—one repository at a time 🚀
+
+---
+
+## 🤝 Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/insha-firdause)  
+📧 [Email](mailto:inshafirdause123@gmail.com)
+
+
+---
+
+## 💻 Tech Stack
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
