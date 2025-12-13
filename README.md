@@ -15,9 +15,10 @@ Let’s connect, learn, and grow together—one repository at a time 🚀
 ---
 
 ## 🤝 Connect
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](www.linkedin.com/in/insha-firdause)
+[![Email](https://img.shields.io/badge/Email-%231DA1F2.svg?style=normal&logo=Email&logoColor=white)](inshafirdause123@gmail.com)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/insha-firdause)  
-📧 [Email](mailto:inshafirdause123@gmail.com)
+
 
 
 ---
