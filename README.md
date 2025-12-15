@@ -4,8 +4,11 @@ Welcome to my little corner of GitHub!
 I’m passionate about growing in my career, learning new technologies, and using data to make work more efficient—and a little more enjoyable.
 
 Here, you’ll find:
+
 🛠️ Projects I’m building and contributing to, mainly in SQL, Excel, and Power BI
+
 📚 Learnings and insights gained while working through real-world problems
+
 🌱 Ideas and inspiration for anyone navigating their early career in data and analytics
 
 Whether you’re here to explore projects, find useful code, or see how someone is building skills step by step—you’re in the right place.
